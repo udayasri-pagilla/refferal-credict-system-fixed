@@ -1,0 +1,28 @@
+# Node
+node_modules/
+
+# Env
+.env
+.env.local
+
+# Next build / cache
+.next/
+out/
+
+# Dist/build
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# OneDrive temp
+~$*

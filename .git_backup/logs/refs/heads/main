@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 d2f0f25c8682cc83f9d78a3483a524ff6bde2bc9 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763219449 +0530	commit (initial): chore: initial commit — referral credit system (backend + frontend)
+d2f0f25c8682cc83f9d78a3483a524ff6bde2bc9 d2f0f25c8682cc83f9d78a3483a524ff6bde2bc9 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763219513 +0530	Branch: renamed refs/heads/master to refs/heads/main
+d2f0f25c8682cc83f9d78a3483a524ff6bde2bc9 ec31dc80183eebad2010ea035c69142abbaf4da7 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763219746 +0530	commit: chore(ci): add README and GitHub Actions CI workflow
+ec31dc80183eebad2010ea035c69142abbaf4da7 65cead4c74ee79545db48347254576b73c949d44 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763223197 +0530	commit: feat(ui): add product images and icons, wire images into cards
+65cead4c74ee79545db48347254576b73c949d44 57596848012a975cfbe196d81fec4db30f2ef605 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763223768 +0530	commit: style(ui): add subtle animations (fade-in, lift) and wire into homepage/cards
+57596848012a975cfbe196d81fec4db30f2ef605 41231d3becdb814db664b18e93cdc93c8bde9b4a udayasri-pagilla <udayasripagilla1873@gmail.com> 1763224103 +0530	commit: style(ui): use subtle scale-on-hover, tweak hero spacing and brand buttons
+41231d3becdb814db664b18e93cdc93c8bde9b4a 2e42408ec49ac27feac39536421b635bc595471a udayasri-pagilla <udayasripagilla1873@gmail.com> 1763232078 +0530	commit: Refactor UI: Updated login, register, dashboard pages + fixed TS errors
+2e42408ec49ac27feac39536421b635bc595471a 18bf3c7b976c727dd68732369c0251e98f362fe3 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763233990 +0530	commit: updated the product images
+18bf3c7b976c727dd68732369c0251e98f362fe3 618fcbb532b1681e9295cc82591fb77c0d2ea14a udayasri-pagilla <udayasripagilla1873@gmail.com> 1763238336 +0530	commit: chore(frontend): clean deps and rebuild after node_modules removal
+618fcbb532b1681e9295cc82591fb77c0d2ea14a 0631395f7abe48c07d4568ffc96708c07dd36244 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763239444 +0530	commit: uml-diagram added
+0631395f7abe48c07d4568ffc96708c07dd36244 2b510a5d5d93c6e35baa080e26abb0f7c95fbf5d udayasri-pagilla <udayasripagilla1873@gmail.com> 1763239494 +0530	commit: previous uml removed
+2b510a5d5d93c6e35baa080e26abb0f7c95fbf5d 60dc1074c5ce237ae7a3e5152c5be8b9da9bf3f8 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763241073 +0530	commit: chore: add TypeScript dev dependencies for Next build
+60dc1074c5ce237ae7a3e5152c5be8b9da9bf3f8 e5b000a04444aab6ae06fc8db733b57136e90a9b udayasri-pagilla <udayasripagilla1873@gmail.com> 1763241095 +0530	commit: chore: add cross-env
+e5b000a04444aab6ae06fc8db733b57136e90a9b 5785dbae1a52c2cf15dab5f74c6a006888fdad14 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763243565 +0530	commit: fix small changes
+5785dbae1a52c2cf15dab5f74c6a006888fdad14 9b3c5c8101f919b0d926cf56039b878ab0c0ff55 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763282299 +0530	commit: Prepare for Render: fix APIs, auth storage, Tailwind
+9b3c5c8101f919b0d926cf56039b878ab0c0ff55 9b3c5c8101f919b0d926cf56039b878ab0c0ff55 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763282549 +0530	Branch: renamed refs/heads/main to refs/heads/main
+9b3c5c8101f919b0d926cf56039b878ab0c0ff55 9b3c5c8101f919b0d926cf56039b878ab0c0ff55 udayasri-pagilla <udayasripagilla1873@gmail.com> 1763282610 +0530	Branch: renamed refs/heads/main to refs/heads/main
